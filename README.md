@@ -2,14 +2,14 @@
 ![Image text](./viewshow/GIF.gif)
 #China pickarea component for vue2.0
 
-###安装插件
+### 安装插件
 npm install vue-chinapickarea
 
-###在main.js中引入
+### 在main.js中引入
 import Regionpick from 'vue-chinapickarea'
 Vue.use(Regionpick)
 
-###在组件中使用
+### 在组件中使用
 <regionpick @areaResult="areaResult" v-bind:isshow.sync="show" @notshow="notshow"></regionpick>
 
 ### 事件
