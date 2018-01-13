@@ -1,6 +1,6 @@
 # vue-chinapickarea
 ![Image text](./viewshow/GIF.gif)
-#China pickarea component for vue2.0
+# China pickarea component for vue2.0
 
 ### 安装插件
 npm install vue-chinapickarea
